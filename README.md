@@ -1,3 +1,3 @@
-How to use
-npm -i 
+### 'How to use'
+npm -i.\
 npm start 
