@@ -1,1 +1,3 @@
-# Connect Metamask Wallet ( or any wallet to your ReactJS app
+How to use
+npm -i 
+npm start 
